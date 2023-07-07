@@ -1,2 +1,3 @@
-# second
-A series of my projects
+# Code Clause Project
+A  basic gui calculator based on tkinter library through python
+
